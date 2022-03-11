@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    width: 100%;
+    overflow: hidden;
+}
+body{
+    background-color: rgb(79, 125, 192);
+}
+.container{
+    margin-top: 15vw;
+    font-family: 'Fredoka', sans-serif;
+    background-color:rgba(0, 0, 0, 0.5);
+    text-align: center;
+    color: white;
+}
+#myDay{
+    padding: 1.5vw 2vw;
+    font-size: 2vw;
+}
+#myClock{
+    padding: 1.5vw 2vw;
+    font-size: 2.5vw;
+}
+#face{
+    width: 10vw;
+    margin: auto;
+}
+    #face img{
+        height: 5vw;
+        width: 10vw;
+    }
